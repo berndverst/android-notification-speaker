@@ -1,7 +1,0 @@
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
-
-    <item android:id="@+id/action_notification_settings"
-        android:title="@string/action_notification_settings"
-        android:orderInCategory="100" />
-</menu>
-<!-- From: file:/Users/bverst/workspace/android-notification-speaker/app/src/main/res/menu/main.xml -->
