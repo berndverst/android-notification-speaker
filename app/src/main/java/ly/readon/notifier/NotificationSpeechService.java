@@ -16,6 +16,9 @@ import ly.readon.notifier.util.Storage;
 import java.util.HashMap;
 import java.util.Locale;
 
+/**
+ * @author : Bernd Verst(@berndverst)
+ */
 public class NotificationSpeechService extends NotificationListenerService {
     private final String TAG = NotificationSpeechService.class.getClass().getSimpleName();
 

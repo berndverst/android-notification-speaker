@@ -16,6 +16,9 @@ import android.widget.Toast;
 
 import ly.readon.notifier.util.Storage;
 
+/**
+ * @author : Bernd Verst(@berndverst)
+ */
 public class MainActivity extends AppCompatActivity {
 
     private Switch readNotificationsSwitch;
