@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Notification Speaker</string>
+
+    <string name="action_notification_settings">Notification Settings</string>
+
+    <string name="allow_notification_access_title">Allow Notification Access</string>
+    <string name="allow_notification_access_msg">This application needs access to intercept all Android Notifications. Go to "Settings" to allow access.</string>
+
+    <string name="label_go_to_setting">Go to Setting</string>
+    <string name="label_cancel">Cancel</string>
+    <string name="label_read_notification">Read Out Notifications</string>
+
+    <string name="notifications_settings_not_found">Could not locate Notification settings. Please proceed manually..</string>
+
+</resources>
